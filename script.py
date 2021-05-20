@@ -1,6 +1,6 @@
 class script(object):
 
-help_data = """Hey.. It's not that complicated
+Help_data = """Hey.. It's not that complicated
 
 Follow These steps..
 
