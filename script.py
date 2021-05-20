@@ -1,6 +1,6 @@
 class script(object):
 
-Help_data = """Hey.. It's not that complicated
+Help_data = """<b>Hey.. It's not that complicated
 
 Follow These steps..
 
@@ -8,8 +8,8 @@ Follow These steps..
 
 🌀 Wait for the link to get generated
 
-NOTE : Currently I don't support text to telegraph"""
-About_data = <b>⭕️ My Name : Nexon's Telegraph BOT
+Note : Currently I don't support text to telegraph</b>"""
+About_data = """<b>⭕️ My Name : Nexon's Telegraph BOT
         
 ⭕️ Creater : @NexonHEX
 
@@ -17,4 +17,13 @@ About_data = <b>⭕️ My Name : Nexon's Telegraph BOT
 
 ⭕️ Library : Pyrogram asyncio 0.16.1
 
-⭕️ Source Code : 🔐</b>
+⭕️ Source Code : 🔐</b>"""
+Start_data = """<b>Hai,
+
+I'm a simple Telegraph Uploader bot💯
+
+I can convert gif, image or video(Mp4only) into telegra.ph links
+
+Click help for more details...
+
+You must subscribe our channel in order to use me😇</b>"""
