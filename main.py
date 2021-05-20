@@ -29,7 +29,7 @@ I can convert gif, image or video(Mp4only) into telegra.ph links
 
 Click help for more details...
 
-You must subscribe our channel in order to use me😇<b/>",
+You must subscribe our channel in order to use me😇</b>",
         disable_web_page_preview=True
     )
 
