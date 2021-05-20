@@ -9,7 +9,7 @@ Follow These steps..
 🌀 Wait for the link to get generated
 
 NOTE : Currently I don't support text to telegraph"""
-About_data = <b>⭕️ My Name : TroJanZ Telegraph BOT
+About_data = <b>⭕️ My Name : Nexon's Telegraph BOT
         
 ⭕️ Creater : @NexonHEX
 
