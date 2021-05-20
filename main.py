@@ -30,7 +30,25 @@ I can convert gif, image or video(Mp4only) into telegra.ph links
 Click help for more details...
 
 You must subscribe our channel in order to use me😇</b>",
-        disable_web_page_preview=True
+        disable_web_page_preview=True,
+        reply_markup=InlineKeyboardMarkup(
+                [
+                    [
+                        InlineKeyboardButton("Help", callback_data="help_data"),
+                        InlineKeyboardButton("About", callback_data="about_data"),
+                    ],
+                    [
+                        InlineKeyboardButton(
+                            "⭕ Nexon Project's ⭕",
+                            url="https://telegram.me/NexonHex",
+                        )
+                    ],
+                ]
+            ),
+            reply_to_message_id=message.message_id,
+        )
+    except Exception:
+        pass
     )
 
 
