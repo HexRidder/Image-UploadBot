@@ -21,7 +21,15 @@ TGraph = Client(
 @TGraph.on_message(filters.command("start"))
 async def start(client, message):
     await message.reply_text(
-        text=f"Hello {message.from_user.first_name},\nIm telegram to telegra.ph image uploader bot by @W4RR10R",
+        text=f"<b>Hai,
+
+I'm a simple Telegraph Uploader bot💯
+
+I can convert gif, image or video(Mp4only) into telegra.ph links
+
+Click help for more details...
+
+You must subscribe our channel in order to use me😇<b/>",
         disable_web_page_preview=True
     )
 
